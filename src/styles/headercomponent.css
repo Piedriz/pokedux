@@ -1,0 +1,11 @@
+.Header{
+    display: flex;
+    flex-direction: row;
+}
+.Logo{
+    width: 150px;
+    
+}
+.Header-menu{
+    width: 100%;
+}
